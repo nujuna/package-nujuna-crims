@@ -1,0 +1,16 @@
+{
+    "name": "nujuna/crims",
+    "description": "Nujuna package special for crims project.",
+    "autoload": {
+        "psr-4": {
+            "Nujuna\\Crims\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Junaedi",
+            "email": "inboxjuna@gmail.com"
+        }
+    ],
+    "require": {}
+}
